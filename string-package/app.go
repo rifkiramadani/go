@@ -9,7 +9,7 @@ func main() {
 	animals := "             hello world             "
 	fmt.Println(strings.TrimSpace(animals))
 
-	// STRING SLICE
+	// STRING SPLIT
 	// animals := "kucing, anjing, monyet, gajah"
 	// filter := strings.Split(animals, ",")
 
